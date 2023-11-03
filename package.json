@@ -11,8 +11,10 @@
   },
   "dependencies": {
     "iconsax-react": "^0.0.8",
+    "iconsax-react-native": "^0.0.8",
     "react": "18.2.0",
     "react-native": "0.72.6",
+    "react-native-svg": "^13.14.0",
     "react-native-vector-icons": "^10.0.0"
   },
   "devDependencies": {
